@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791131977166",
+    "project_id": "chatroomapp-68489",
+    "storage_bucket": "chatroomapp-68489.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791131977166:android:8ebd6fbd3908d063cfa79f",
+        "android_client_info": {
+          "package_name": "com.example.mayChatroomApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC-N3-5ezyh4Z3-uBArBRkQJloNR6YxHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
